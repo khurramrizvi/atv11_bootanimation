@@ -17,7 +17,8 @@
 * Tried installing the file through Android App: <b> Boot Animations for Superusers</b> from JRummy Apps, but the boot animation got resized and looked <b>UGLUYYYY!!!</b>
 * So try installing using above steps only for <b>desired</b> result.
 
-
+### Testing
+* Tested and found working on <b>TX3 Mini</b> Android Box
 
 ### Few Screenshots from Boot  
 
