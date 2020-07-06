@@ -11,7 +11,8 @@
 * Root Access is a <b> MUST. </b>
 * Download the Boot Animation File from <a href="https://github.com/khurramrizvi/atv11_bootanimation/blob/master/Working%20and%20Tested/bootanimation.zip">here</a>
 * Use any Root Explorer Apps like <b>root explorer, ZArchiver etc.</b>
-* place the file under ```\system\media\ ``` of root directory of your device. <b>Note: make sure that directory is mounted in R/W mode</b>
+* place the file under ```\system\media\ ``` of root directory of your device. <br>
+<b>Note: make sure that directory is mounted in R/W mode</b>
 
 ### Highlight
 * Tried installing the file through Android App: <b> Boot Animations for Superusers</b> from JRummy Apps, but the boot animation got resized and looked <b>UGLUYYYY!!!</b>
