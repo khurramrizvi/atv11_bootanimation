@@ -35,7 +35,7 @@
 <img src=gif/atv11-fast.gif width=480 height=320>
 
 ### Credits & Modifications
-If you would like to use my work, feel free to do so, just <b>don't forgot</b> to provide credit to my original work <b>[this repo]</b>, as it helps me grow as a developer 😃😃.
+If you would like to use my work, feel free to do so, just <b>don't forgot</b> to provide credit to my original work <a href=https://github.com/khurramrizvi/atv11_bootanimation>[this repo]</a>, as it helps me grow as a developer 😃😃.
 
 ### If you like my work and want to show some ❤️, please consider giving a ⭐️ to this Repository.
 
