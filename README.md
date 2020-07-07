@@ -32,7 +32,7 @@
 
 ### Boot Animation in Action
 
-<img src=gif/atv11.gif width=480 height=320>
+<img src=gif/atv11-fast.gif width=480 height=320>
 
 ### Credits & Modifications
 If you would like to use my work, feel free to do so, just <b>don't forgot</b> to provide credit to my original work <b>[this repo]</b>, as it helps me grow as a developer 😃😃.
