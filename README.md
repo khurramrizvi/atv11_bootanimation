@@ -2,7 +2,7 @@
 
 <p>The Boot Animation is directly extracted from the latest Android 11 Beta Image for <b>ADT-3 Developer Kit.</b><br>
 
-<b>The new boot animation is such a Eye Candy has I decided to port it for all other android tv boxes😘</b>
+<b>The new boot animation is such a Eye Candy that I decided to port it for all other android tv boxes😘</b>
 </p>
 
 
